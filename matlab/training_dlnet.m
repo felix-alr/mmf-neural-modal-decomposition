@@ -104,7 +104,7 @@ if train
     end
 else
    load("data/trained-nets/"+model+"" + N + "modes.mat"); 
-   disp("Loaded " + model + " trained on " + mode + " mode data.")
+   disp("Loaded " + model + " trained on " + N + " mode data.")
 end
 
 
