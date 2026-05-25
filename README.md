@@ -1,7 +1,5 @@
 # MMF Neural Modal Decomposition
 ## Overview
-![Python](https://img.shields.io/badge/Python-3.12.3-yellow?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.9.1-orange?style=flat-square)
 ![Python](https://img.shields.io/badge/MATLAB-R2024a-blue?style=flat-square)
 ![TU Dresden](https://img.shields.io/badge/TU_Dresden-Neural_Networks_for_Image_Processing-green?style=flat-square)
 
