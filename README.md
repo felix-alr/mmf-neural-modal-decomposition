@@ -1,7 +1,7 @@
 # MMF Neural Modal Decomposition
 ## Overview
-![Python](https://img.shields.io/badge/MATLAB-R2024a-blue?style=flat-square)
-![TU Dresden](https://img.shields.io/badge/TU_Dresden-Neural_Networks_for_Image_Processing-green?style=flat-square)
+![Python](https://img.shields.io/badge/MATLAB-R2024a-blue)
+![TU Dresden](https://img.shields.io/badge/TU_Dresden-Neural_Networks_for_Image_Processing-green)
 
 Multimode fibers scramble light into complex speckle patterns at their output, making it difficult to recover the underlying modal composition. This project applies deep learning to decompose speckle intensity images into their constituent fiber modes &mdash; predicting both amplitude and phase coefficients for up to 5 modes.
 
